@@ -10,7 +10,7 @@ tags:
 ---
 
 
-이전 스터디에서 [aws ingress controller 체험기](https://nyoung08.github.io/study/aws/2023/03/18/aws-ingress/)를 작성했었는데, 이번주 스터디 이후 도전과제로 주어진 [블로그](https://aws.amazon.com/ko/blogs/containers/exposing-kubernetes-applications-part-2-aws-load-balancer-controller/)글을 보고 테스트하였다. 환경은 지난번에는 kops로 구성된 클러스터였지만, 이번에는 eks 클러스터에서 테스트하였다.
+이전 스터디에서 [aws ingress controller 체험기](https://nyounglab.github.io/study/aws/2023/03/18/aws-ingress/)를 작성했었는데, 이번주 스터디 이후 도전과제로 주어진 [블로그](https://aws.amazon.com/ko/blogs/containers/exposing-kubernetes-applications-part-2-aws-load-balancer-controller/)글을 보고 테스트하였다. 환경은 지난번에는 kops로 구성된 클러스터였지만, 이번에는 eks 클러스터에서 테스트하였다.
 
 
 ![1-0](/assets/img/aews/2w/1-0.png)
@@ -218,7 +218,7 @@ spec:
 
 ```
 
-ingress의 annotation의 정보들은 이전 과제에서 한번 정리했었다. [🔗](https://nyoung08.github.io/study/aws/2023/03/18/aws-ingress/)
+ingress의 annotation의 정보들은 이전 과제에서 한번 정리했었다. [🔗](https://nyounglab.github.io/study/aws/2023/03/18/aws-ingress/)
 
 
 ![1-2](/assets/img/aews/2w/1-2.png)

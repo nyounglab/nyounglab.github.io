@@ -1,3 +1,4 @@
+# encoding: utf-8
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
@@ -10,10 +11,10 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://github.com/riggraz/no-style-please"
   spec.license       = "MIT"
 
-  spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README|_config\.yml)!i) }
+  spec.files         = `git ls-files -z`.force_encoding("UTF-8").split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README|_config\.yml)!i) }
 
-  spec.add_runtime_dependency "jekyll", "~> 3.9.0"
-  spec.add_runtime_dependency "jekyll-feed", "~> 0.15.1"
-  spec.add_runtime_dependency "jekyll-seo-tag", "~> 2.7.1"
+  spec.add_runtime_dependency "jekyll", "~> 3.9"
+  spec.add_runtime_dependency "jekyll-feed", "~> 0.17"
+  spec.add_runtime_dependency "jekyll-seo-tag", "~> 2.8"
 
 end

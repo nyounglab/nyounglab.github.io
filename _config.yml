@@ -2,7 +2,7 @@ title: nyoung note
 author: nyoung
 email: 08eychoi@gmail.com
 #url: http://localhost:4000
-url: https://nyoung08.github.io
+url: https://nyounglab.github.io
 baseurl: "/"
 future: true
 
@@ -35,7 +35,7 @@ comments:
   provider: utterances        
 
 utterances:
-  repo: "nyoung08/4comment"
+  repo: "nyounglab/4comment"
   issue-term: "pathname"
   label: "Comments"
   theme: "github-light"

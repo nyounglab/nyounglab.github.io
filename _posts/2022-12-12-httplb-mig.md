@@ -15,7 +15,7 @@ tags:
 - modules: 리소스들을 모듈로 정의
 ![1-1](/assets/img/t101/fin/1-1.png)
 
-환경별 상태관리 방법은 지난 포스팅을 참고하면 된다.[🔗](https://nyoung08.github.io/study/2022/11/13/%ED%99%98%EA%B2%BD%EB%B3%84-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B0%B1%EC%97%94%EB%93%9C%EC%99%80-%EB%AA%A8%EB%93%88-%EC%82%AC%EC%9A%A9%EA%B8%B0/)
+환경별 상태관리 방법은 지난 포스팅을 참고하면 된다.[🔗](https://nyounglab.github.io/study/2022/11/13/%ED%99%98%EA%B2%BD%EB%B3%84-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B0%B1%EC%97%94%EB%93%9C%EC%99%80-%EB%AA%A8%EB%93%88-%EC%82%AC%EC%9A%A9%EA%B8%B0/)
 
 
 
